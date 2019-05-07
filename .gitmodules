@@ -1,0 +1,3 @@
+[submodule "test-this-is-the-submodule"]
+	path = test-this-is-the-submodule
+	url = https://github.com/castroCrea/test-this-is-the-submodule.git
